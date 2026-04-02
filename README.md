@@ -24,10 +24,13 @@ My self-hosted, pixel-style link hub with seasonal particles, dark aesthetic, an
 ```bash
 npm install
 npm run dev
+```
 
 ### Production Build
+```bash
 npm run build
 server -s dist -l 6969
+```
 
 ## 📝  Configuration
 Edit src/app.tsx to customize:
